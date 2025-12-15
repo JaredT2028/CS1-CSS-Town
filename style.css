@@ -1,1 +1,25 @@
+body {
+    background: url(mondo-grass-1181-in-architextures.jpg);
+    background-size: 50%;
+    margin: 0;
+    padding: 0;
+}
 
+#sky {
+    background: linear-gradient(rgb(194, 221, 230), lightskyblue, aliceblue);
+    height: 50%;
+}
+
+#road {
+    height: 400px;
+    position: absolute; 
+    top: 48%;
+    left: 200px
+}
+
+#car {
+    width: 60px;
+    position: absolute; 
+    top: 60%;
+    left: 328px;
+}
