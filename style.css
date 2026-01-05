@@ -13,7 +13,7 @@ body {
 #road {
     height: 400px;
     position: absolute; 
-    top: 48%;
+    top: 49%;
     left: 200px
 }
 
@@ -22,4 +22,73 @@ body {
     position: absolute; 
     top: 60%;
     left: 328px;
+}
+
+#house {
+    width: 250px;
+    position: absolute; 
+    top: 70%;
+    left: 3px;
+
+}
+
+#tree {
+    width: 200px;
+    position: absolute; 
+    top: 75%;
+    left: 520px;
+    
+}
+
+#sun {
+    width: 150px;
+    position: absolute;
+    top: -2%;
+    left: -20px;
+    
+}
+
+#house2 {
+    width: 200px;
+    position: absolute; 
+    top: 50%;
+    left: 520px;
+    transform:rotateY()
+}
+
+#car2 {
+      width: 90px;
+    position: absolute; 
+    top: 75%;
+    left: 400px;
+    transform: rotateY(20deg)
+}
+
+#cloud {
+    width: 300px;
+    position: absolute;
+    top: 0%;
+    left: 450px;
+}
+
+#cloud2 {
+    width: 300px;
+    position: absolute;
+    top: -1%;
+    left: 250px;
+}
+
+#cloud3 {
+    width: 300px;
+    position: absolute;
+    top: 2%;
+    left: 50px;
+}
+
+#mountain {
+    width: 250px;
+    position: absolute; 
+    top: 40%;
+    left: 3px;
+    transform: rotatex(-20deg)
 }
